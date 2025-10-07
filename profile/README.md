@@ -1,4 +1,4 @@
-## Aktiveplan+ 
+## aktivplan+ 
 
 ### This is an open source free to use application for research purposes 
 ### This uses licenses 
