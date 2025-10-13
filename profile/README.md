@@ -9,11 +9,14 @@
 
 ## About
 
-The aktivplan app is designed to support healthcare professionals and patients in planning activities. It can be used both as a web application as well as a mobile application on the cell phone. aktivplan is used by health professionals together with their patients, allowing to jointly set up, monitor, and regularly review a personalized heart-healthy physical activity plan.
-
-Patients are involved and guided by expert health professionals in setting up a personalized heart-healthy physical activity plan. Patients select exercises and activities they enjoy and define personally meaningful goals. Through the App interface, patients can conveniently access their plan on a calendar, log activities, change activities, review their performance, and access a library of resources such as exercise videos. At follow-up appointments with their health professional, patients can review their documented performance and discuss the plan going forward.
-
-Health professionals are supported in providing personalized physical activity prescription and ongoing review and optimization of their patients’ performance. Through the web interface, health professionals can conveniently view patients’ activity logs. Activity logs can be exported and printed, to be filed in medical records, to provide documentation to health insurances, and to be used for joint review and further planning with patients at follow-up appointments.
-The development of the aktivplan app was made possible by a COVID-19 related grant from the Open Innovation in Science Center of the Ludwig Boltzmann Gesellschaft (CODIS). The implementation took place in cooperation with Alphaport OG and Chino.io.
-
-If you have any further questions, please contact us aktivplan.dhp@dhp.lbg.ac.at
+The aktivplan application is designed to facilitate collaboration between healthcare professionals and patients in the context of planning and documenting physical activities that support general heart health and well-being. It is available both as a web-based and a mobile application. aktivplan serves as a digital support and communication tool, helping health professionals and their patients jointly organize, record, and review a personalized physical activity plan.
+ 
+Within this process, patients are guided by qualified health professionals in defining enjoyable and meaningful physical activities and related goals. The App enables patients to conveniently access their activity plan via a digital calendar, log completed activities, adjust their schedules, and access a collection of educational materials such as exercise videos. Patients and professionals can review these activity logs together during regular follow-up discussions to reflect on progress and plan next steps.
+ 
+For health professionals, the application provides a convenient interface to view and export patients’ self-reported activity information. Exported summaries can be printed or attached to existing medical records, used as documentation for insurance or reporting purposes, and serve as a basis for discussion during follow-up consultations.
+ 
+aktivplan is intended solely as a digital facilitation and record-keeping tool to support communication and engagement around physical activity planning. It does not provide diagnostic functions, clinical decision support, or automated medical recommendations. The software is not a medical device and is not offered as “Software as a Medical Device (SaMD).” 
+ 
+The application is provided as source-available software, licensed under the Elastic License v2 and Apache 2.0 with Commons Clause. Any party choosing to deploy or operate an instance of the software assumes full responsibility for compliance with applicable laws, regulations, and data-protection requirements. The maintainers of the source code do not offer hosted instances and bear no liability for third-party deployments
+ 
+The development of the aktivplan app was supported by a COVID-19 related grant from the Open Innovation in Science Center of the Ludwig Boltzmann Gesellschaft (CODIS) and implemented in cooperation with Alphaport OG and Chino.io.
