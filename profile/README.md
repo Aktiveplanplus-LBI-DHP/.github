@@ -1,10 +1,10 @@
 ## aktivplan+ 
 
-### This is an open source free to use application for research purposes 
-### This uses licenses 
+### This is a source-available, free to use application for research purposes 
+### The source code is released under the following licenses (cf. respective repositories for applicable license):
 
-#### Apache License 2.0 + Commons Clause for the backend
-#### Elastic License 2.0 for the application
+#### Apache License 2.0 + Commons Clause for the application
+#### Elastic License 2.0 for the backend
 
 
 ## About
